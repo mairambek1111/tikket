@@ -1,0 +1,14 @@
+.sale {
+  h2 {
+    font-weight: 400;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 1px;
+  }
+  &__content {
+    &__left {
+      width: 43%;
+      height: auto;
+    }
+  }
+}
