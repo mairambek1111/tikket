@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "./styles.module.scss";
+import styles from "./header.module.scss";
 import Image from "next/image";
 import headericon from "@/assets/headerimage.png";
 function Header() {
@@ -11,7 +11,9 @@ function Header() {
             <div className={styles.wrap}>
               <Image src={headericon} width={100} height={100} />
             </div>
-            <button className={styles.btn}>Купить билет</button>
+            <div>
+              <button className={styles.btn}>Купить билет</button>
+            </div>
           </div>
         </div>
       </div>
