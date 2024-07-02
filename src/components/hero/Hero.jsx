@@ -6,7 +6,7 @@ import { FaArrowDown } from "react-icons/fa6";
 function Hero() {
   return (
     <>
-      <div className={styles.hero}>
+      <div className={`${styles.hero} pb-[7pc]`}>
         <div className={styles.imagewrap}>
           <Image src={image} className={styles.image} />
         </div>
