@@ -1,3 +1,5 @@
+"use client"
+import { Element } from "react-scroll";
 import styles from "./events.module.scss";
 function Events() {
   return (
@@ -60,11 +62,7 @@ function Events() {
           </div>
         </div>
         <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
+      <Element name="test2"></Element>
       </div>
     </>
   );
