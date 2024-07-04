@@ -38,11 +38,11 @@ function Events() {
               </li>
               <li className={styles.list}>
                 4. ОКК занимается разработкой профессионального стандарта,
-                клинических протоколов.
+                клинических протоколов.
               </li>
             </ol>
             <h3 className={styles.okktitle}>
-              Преимущества участия в мероприятиях ОКК:
+            Преимущества участия в нашем конгрессе :
             </h3>
             <ul className={styles.lists2}>
               <li className={styles.list2}>
