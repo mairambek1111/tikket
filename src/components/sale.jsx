@@ -71,7 +71,7 @@ function Sale() {
                 <p className="sale__mbank text-xl pt-[5px]">1030120002306208</p>
               </div>
               <div className="ul__div mt-[45px]">
-                <p className="text-[24px]">Цены на билеты</p>
+                <p className="text-[24px]">Цена на билеты</p>
                 <ul className="list-disc	ml-[20px] text-[16px]">
                   <li>3500 сом</li>
                 </ul>
