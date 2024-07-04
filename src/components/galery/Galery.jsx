@@ -47,7 +47,7 @@ function Galery() {
               style={{ width: "calc(50% - 10px)", marginBottom: "10px" }}
             >
               <div
-                style={{
+                 style={{
                   position: "relative",
                   width: "100%",
                   paddingTop: "75%",

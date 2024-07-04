@@ -63,7 +63,7 @@ function Sale() {
           </h2>
           <div className="sale__content flex items-start">
             <div className="sale__content__left mt-[40px]">
-              <div className="w-[80px] flex gap-[15px] items-center">
+              <div className="mbank__block w-[80px] flex gap-[15px] items-center">
                 <Image
                   src={"/mbank.png"}
                   alt="Mbank"
@@ -72,7 +72,7 @@ function Sale() {
                 />
                 <p className="sale__mbank text-xl pt-[5px]">1030120002306208</p>
               </div>
-              <div className="mt-[45px]">
+              <div className="ul__div mt-[45px]">
                 <p className="text-[24px]">Цены на билеты</p>
                 <ul className="list-disc	ml-[20px] text-[16px]">
                   <li>1 день 3500 сом</li>
@@ -84,7 +84,7 @@ function Sale() {
             </div>
             <div className="sale__content__right">
               <div>
-                <p>Ваше фамилие</p>
+                <p>Ваша Фамилия</p>
                 <input
                   type="text"
                   name="surname"
