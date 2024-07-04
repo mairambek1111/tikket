@@ -75,10 +75,7 @@ function Sale() {
               <div className="ul__div mt-[45px]">
                 <p className="text-[24px]">Цены на билеты</p>
                 <ul className="list-disc	ml-[20px] text-[16px]">
-                  <li>1 день 3500 сом</li>
-                  <li>1 день ОКК 2500</li>
-                  <li>2 дня 6000 сом</li>
-                  <li>2 дня ОКК 4500</li>
+                  <li>3500 сом</li>
                 </ul>
               </div>
             </div>
