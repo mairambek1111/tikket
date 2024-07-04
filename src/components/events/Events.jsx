@@ -7,7 +7,7 @@ function Events() {
       <div className={styles.event}>
         <div className="container">
           <div className={styles.content}>
-            <h1 className={styles.title}>О Мероприятии</h1>
+            <h1 className={styles.title}>Об профессиональном общественном объединении</h1>
             <p className={styles.text}>
               Общественное объединение «Общество косметологов
               Кыргызстана»(«ОКК») - это профессиональное сообщество
