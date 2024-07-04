@@ -58,9 +58,7 @@ function Sale() {
     <>
       <div className="sale mt-[7pc]">
         <div className="container max-w-[1140px] m-auto">
-          <h2 className="mb-[60px]">
-            Купить билеты для конгресса косметологов
-          </h2>
+          <h2 className="mb-[60px]">III международный конгресс косметологов</h2>
           <div className="sale__content flex items-start">
             <div className="sale__content__left mt-[40px]">
               <div className="mbank__block w-[80px] flex gap-[15px] items-center">
@@ -123,7 +121,7 @@ function Sale() {
               <div>
                 <p>Загрузить чек</p>
                 <input
-                className="file__input"
+                  className="file__input"
                   type="file"
                   onChange={(e) => setPhoto(e.target.files[0])}
                 />
