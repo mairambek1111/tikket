@@ -4,7 +4,7 @@ import "@/components/sale.scss";
 import { useState } from "react";
 import axios from "axios";
 import { Element } from "react-scroll";
-
+import './sale.scss'
 function Sale() {
   const [surname, setSurname] = useState("");
   const [name, setName] = useState("");
