@@ -15,7 +15,12 @@ function Hero() {
         </div>
         <div className="container">
           <div className={styles.content}>
-            <h1 className={styles.title}>О мероприятии</h1>
+            <h1 className={styles.title}>
+              III Международный конгресс по эстетической медицине и косметологии
+              «Anti-age программы в эстетической медицине и косметологии. <br />{" "}
+              2024 Иссык Куль{" "}
+            </h1>
+
             <div className={styles.arrow}>
               <Link
                 activeClass="active"
