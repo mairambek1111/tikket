@@ -8,10 +8,7 @@ function Events() {
             <h1 className={styles.title}>
               Уважаемые косметологи посетите данное мероприятие.
             </h1>
-            <h3 className={styles.pretitle}>
-              Уважаемые косметологи посетите данное мероприятие.
-            </h3>
-            <p  className="text-[24px] ml-[10px]">Вы получите:</p>
+            <p className="text-[24px] ml-[10px]">Вы получите:</p>
             <ol className={styles.lists}>
               <li className={styles.list}>
                 1. Качественные знания и последние протоколы лечения в анти-эйдж
@@ -70,10 +67,10 @@ function Events() {
                 7. Подарки и скидки от производителей и дистрибьюторов.
               </li>
             </ul>
-            <h3 className={styles.title} style={{marginTop: 40,
-            }}>Об профессиональном общественном объединении</h3>
-            <p className={styles.text} style={{marginTop: 10,
-            }}>
+            <h3 className={styles.title} style={{ marginTop: 40 }}>
+              Об профессиональном общественном объединении
+            </h3>
+            <p className={styles.text} style={{ marginTop: 10 }}>
               «Общество косметологов Кыргызстана»(«ОКК») - это профессиональное
               сообщество специалистов, занимающихся предоставлением
               косметологической помощи населению Кыргызстана. Основано в 2019
