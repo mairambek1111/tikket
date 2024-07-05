@@ -142,14 +142,14 @@ function Sale() {
         </div>
       </div>
       <Element name="test1"></Element>
-      <ResponseData
+      {/* <ResponseData
         data={{ name, surname, telegram, phone }}
         download={download}
         setTicket={(file) => {
           setTicket(file);
           handleDownloadComplete();
         }}
-      />
+      /> */}
     </>
   );
 }
