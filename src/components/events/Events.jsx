@@ -5,7 +5,6 @@ function Events() {
       <div className={styles.event}>
         <div className="container">
           <div className={styles.content}>
-<<<<<<< HEAD
             <h1 className={styles.title}>О конгрессе</h1>
             {/* <h3 className={styles.pretitle}>
               Посетив наш конгресс 
@@ -23,12 +22,6 @@ function Events() {
               Вас ждет насыщенная 2х дневная программа:
             </p>
             {/* <ul><ul/> */}
-=======
-            <h1 className={styles.title}>
-              Уважаемые косметологи посетите данное мероприятие.
-            </h1>
-            <p className="text-[24px] ml-[10px]">Вы получите:</p>
->>>>>>> d227ca177a6a61bb14e35fb2a839246a860a7bac
             <ol className={styles.lists}>
               <li className={styles.list2}>
                 1. Новейшие знания и протоколы анти-эйдж терапии.
@@ -95,11 +88,7 @@ function Events() {
               <li className={styles.list2}>
                 7. Подарки и скидки от производителей и дистрибьюторов.
               </li>
-<<<<<<< HEAD
             </ul> */}
-=======
-            </ul>
->>>>>>> d227ca177a6a61bb14e35fb2a839246a860a7bac
             <h3 className={styles.title} style={{ marginTop: 40 }}>
               Об профессиональном общественном объединении
             </h3>
