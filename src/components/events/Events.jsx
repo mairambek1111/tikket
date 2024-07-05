@@ -6,9 +6,9 @@ function Events() {
         <div className="container">
           <div className={styles.content}>
             <h1 className={styles.title}>
-              Уважаемые косметологи посетите данное мероприятие.
+              Уважаемые косметологи посетите данное мероприятие. <br />
+              Вы получите:
             </h1>
-            <p className={styles.text}>Вы получите:</p>
             <h3 className={styles.pretitle}>
               Основные направления работы ОКК:
             </h3>
