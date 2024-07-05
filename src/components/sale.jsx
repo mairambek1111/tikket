@@ -208,7 +208,7 @@ function Sale() {
       <div className="sale mt-[7pc]">
         <div className="container max-w-[1140px] m-auto">
           <h2 className="mb-[60px]">
-            Купить билеты для конгресса косметологов
+            «Купить билет на III Международный конгресс косметологов»
           </h2>
           <div className="sale__content flex items-start">
             <div className="sale__content__left mt-[40px]">
@@ -224,8 +224,8 @@ function Sale() {
               <div className="ul__div mt-[45px]">
                 <p className="text-[24px]">Стоимость участия:</p>
                 <ul className="list-disc	ml-[20px] text-[16px]">
-                  <li>1 день 3500 сом</li>
-                  <li>1 день 6000</li>
+                  <li>1 день 3500</li>
+                  <li>2 дня 6000</li>
                 </ul>
               </div>
             </div>
