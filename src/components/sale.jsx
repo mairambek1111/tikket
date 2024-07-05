@@ -224,7 +224,6 @@ function Sale() {
                 <ul className="list-disc	ml-[20px] text-[16px]">
                   <li>1 день 3500</li>
                   <li>2 дня 6000</li>
-                  <li>2 дня ОКК 4500</li>
                 </ul>
               </div>
             </div>
