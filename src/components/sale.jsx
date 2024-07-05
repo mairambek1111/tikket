@@ -222,12 +222,10 @@ function Sale() {
                 <p className="sale__mbank text-xl pt-[5px]">1030120002306208</p>
               </div>
               <div className="ul__div mt-[45px]">
-                <p className="text-[24px]">Цены на билеты</p>
+                <p className="text-[24px]">Стоимость участия:</p>
                 <ul className="list-disc	ml-[20px] text-[16px]">
                   <li>1 день 3500 сом</li>
-                  <li>1 день ОКК 2500</li>
-                  <li>2 дня 6000 сом</li>
-                  <li>2 дня ОКК 4500</li>
+                  <li>1 день 6000</li>
                 </ul>
               </div>
             </div>
