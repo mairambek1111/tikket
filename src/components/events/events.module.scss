@@ -1,11 +1,15 @@
 .event {
   .content {
     .title {
-      font-size: 32px;
+      font-size: 22px;
       font-weight: 500;
+      margin-left: 10px;
       text-align: center;
-      @media (max-width: 400px) {
-        font-size: 22px;
+      @media (max-width: 464px) {
+        font-size: 18px;
+      }
+      @media (max-width: 363px) {
+        font-size: 16px;
       }
     }
     .text {
@@ -21,7 +25,6 @@
     }
     .lists {
       padding: 10px;
-
       margin-bottom: 10px;
       .list {
         font-size: 17px;
@@ -30,10 +33,18 @@
     }
 
     .okktitle {
-      font-size: 22px;
-      font-weight: 400;
-      margin-left: 10px;
+      font-size: 32px;
+      font-weight: 500;
+      text-align: center;
       margin-bottom: 10px;
+
+      @media (max-width: 464px) {
+        font-size: 22px;
+      }
+
+      @media (max-width: 464px) {
+        font-size: 18px;
+      }
     }
 
     .lists2 {
@@ -45,8 +56,7 @@
       }
     }
   }
-  p{
-
+  p {
     span {
       font-weight: 400;
     }

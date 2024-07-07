@@ -6,11 +6,11 @@ import galery4 from "../../../public/galery4.jpg";
 import galery5 from "../../../public/galery5.jpg";
 import galery9 from "../../../public/galery9.jpg";
 import galery10 from "../../../public/galery10.jpg";
-import galery11 from "../../../public/galery11.jpg";
 import galery12 from "../../../public/galery12.jpg";
 import galery13 from "../../../public/galery13.jpg";
 import galery14 from "../../../public/galery14.jpg";
 import galery15 from "../../../public/galery15.jpg";
+import galery16 from "../../../public/image1.jpg";
 
 function Galery() {
   const imageSources = [
@@ -20,11 +20,11 @@ function Galery() {
     galery5,
     galery9,
     galery10,
-    galery11,
     galery12,
     galery13,
     galery14,
     galery15,
+    galery16,
   ];
 
   return (
