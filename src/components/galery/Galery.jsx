@@ -10,7 +10,7 @@ import galery12 from "../../../public/galery12.jpg";
 import galery13 from "../../../public/galery13.jpg";
 import galery14 from "../../../public/galery14.jpg";
 import galery15 from "../../../public/galery15.jpg";
-import galery16 from "../../../public/image1.jpg";
+// import galery16 from "../../../public/image1.jpg";
 
 function Galery() {
   const imageSources = [
@@ -24,7 +24,7 @@ function Galery() {
     galery13,
     galery14,
     galery15,
-    galery16,
+    // galery16,
   ];
 
   return (
