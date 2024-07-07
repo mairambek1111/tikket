@@ -60,4 +60,6 @@ function Galery() {
   );
 }
 
+// sadfgb
+
 export default Galery;
