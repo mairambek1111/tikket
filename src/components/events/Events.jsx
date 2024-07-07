@@ -48,10 +48,13 @@ function Events() {
               </li>
               <li className={styles.list2}>8. ⁠12 кредит-часов!!!</li>
             </ol>
-            <h3 className={styles.okktitle} style={{ marginTop: 40 }}>
+            <h3
+              className="text-[28px] ml-[10px] text-center"
+              style={{ marginTop: 40 }}
+            >
               Об профессиональном общественном объединении
             </h3>
-            <h3 className={`${styles.title} text-center`}>
+            <h3 className="text-[28px] ml-[10px] text-center">
               Данный конгресс организован «Обществом косметологов Кыргызстана».
             </h3>
 
@@ -64,10 +67,9 @@ function Events() {
               тела. ОКК занимается повышением уровня и качества
               косметологических услуг населению, проводя обучающие учебные
               циклы, семинары и мастер-классы, конгрессы <br /> <br />{" "}
-              <span className="text-[28px] ml-[10px]">
-                {" "}
+              <h1 className="text-[28px] ml-[10px] text-center mr-0">
                 ОКК работает по основным направлениям:
-              </span>{" "}
+              </h1>
               <br />
             </p>
             <ul className={styles.lists2}>
