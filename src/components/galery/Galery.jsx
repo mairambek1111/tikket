@@ -2,12 +2,8 @@ import React from "react";
 import Image from "next/image";
 import galery1 from "../../../public/galery1.jpg";
 import galery2 from "../../../public/galery2.jpg";
-import galery3 from "../../../public/galery3.jpg";
 import galery4 from "../../../public/galery4.jpg";
 import galery5 from "../../../public/galery5.jpg";
-import galery6 from "../../../public/galery6.jpg";
-import galery7 from "../../../public/galery7.jpg";
-import galery8 from "../../../public/galery8.jpg";
 import galery9 from "../../../public/galery9.jpg";
 import galery10 from "../../../public/galery10.jpg";
 import galery11 from "../../../public/galery11.jpg";
@@ -19,13 +15,9 @@ import galery15 from "../../../public/galery15.jpg";
 function Galery() {
   const imageSources = [
     galery2,
-    galery3,
     galery4,
     galery1,
     galery5,
-    galery6,
-    galery7,
-    galery8,
     galery9,
     galery10,
     galery11,
@@ -47,7 +39,7 @@ function Galery() {
               style={{ width: "calc(50% - 10px)", marginBottom: "10px" }}
             >
               <div
-                 style={{
+                style={{
                   position: "relative",
                   width: "100%",
                   paddingTop: "75%",
