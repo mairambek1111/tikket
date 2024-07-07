@@ -48,12 +48,13 @@ function Events() {
               </li>
               <li className={styles.list2}>8. ⁠12 кредит-часов!!!</li>
             </ol>
-            <h3 className={`${styles.okktitle} text-center`}>
-              Данный конгресс организован «Обществом косметологов Кыргызстана».
-            </h3>
-            <h3 className={styles.title} style={{ marginTop: 40 }}>
+            <h3 className={styles.okktitle} style={{ marginTop: 40 }}>
               Об профессиональном общественном объединении
             </h3>
+            <h3 className={`${styles.title} text-center`}>
+              Данный конгресс организован «Обществом косметологов Кыргызстана».
+            </h3>
+
             <p className={styles.text} style={{ marginTop: 10 }}>
               «Общество косметологов Кыргызстана»(«ОКК») - это профессиональное
               сообщество специалистов, занимающихся предоставлением
