@@ -6,20 +6,18 @@ function Events() {
         <div className="container">
           <div className={styles.content}>
             <h1 className={styles.title}>О конгрессе</h1>
-
-            <p className="text-[24px] ml-[10px]">
+            <p className="text-[22px] ml-[10px]">
               <span className="text-center">Уважаемые коллеги!</span> <br />
               Приглашаем вас присоединиться к числу участников III
               международного конгресса по эстетической медицине и косметологии!
               <br />
               Конгресс пройдет 23-24 августа 2024 года в Комплексе Отдыха и
-              Туризма «Ак-Бермет», на берегу озера Иссык Куль!
+              Туризма «Ак-Бермет», на берегу озера Иссык Куль!
             </p>
             <br />
             <p className="text-[24px] ml-[10px]">
               Вас ждет насыщенная 2х дневная программа:
             </p>
-            {/* <ul><ul/> */}
             <ol className={styles.lists}>
               <li className={styles.list2}>
                 1. Новейшие знания и протоколы анти-эйдж терапии.

@@ -1,15 +1,15 @@
 .event {
   .content {
     .title {
-      font-size: 22px;
+      font-size: 36px;
       font-weight: 500;
       margin-left: 10px;
       text-align: center;
       @media (max-width: 464px) {
-        font-size: 18px;
+        font-size: 28px;
       }
       @media (max-width: 363px) {
-        font-size: 16px;
+        font-size: 26px;
       }
     }
     .text {
